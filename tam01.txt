@@ -1,0 +1,41 @@
+
+tam01.txt
+-----------------------------------------------------
+Numero do aviao: tam01
+Preco da passagem: 25.00
+Aeroporto de origem: sp
+Aeroporto de destino: mg
+Hora de saida: 00:00
+Hora de chegada: 03:00
+Numero de lugares: 20
+
+
+ Cadastro de passageiro 
+
+-----------------------------------------------------
+
+Nome: uhdsadas
+
+CPF: asudhadsuhhudas
+Data de nascimento: uasduh
+
+Numero de telefone: dasuhasduhdasu
+
+E-Mail: huasuh
+
+Poltrona reservada: 3
+
+ Cadastro de passageiro 
+
+-----------------------------------------------------
+
+Nome: huasdhasd
+
+CPF: ashuddsha
+Data de nascimento: asdhudasuh
+
+Numero de telefone: asdhudsauh
+
+E-Mail: husadhu
+
+Poltrona reservada: 2
